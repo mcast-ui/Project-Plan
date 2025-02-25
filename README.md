@@ -75,7 +75,9 @@ print(response.json())
     "message": "Password deleted successfully"
 }
 ```
-
+**UML Digram**
+  
+![image alt](https://github.com/mcast-ui/Project-Plan/blob/b7ba622c05e9a6abe2124add3f297cad671cf3e5/Screenshot%202025-02-24%20192520.png)
 
 
 
